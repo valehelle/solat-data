@@ -1,0 +1,463 @@
+{
+  "version": 1,
+  "updated": "2026-10-05",
+  "renamed": {
+    "KTN03": "KTN02"
+  },
+  "zones": [
+    {
+      "code": "JHR01",
+      "state": "Johor",
+      "area": "Pulau Aur, Pulau Pemanggil",
+      "lat": 2.4467,
+      "lng": 104.5225
+    },
+    {
+      "code": "JHR02",
+      "state": "Johor",
+      "area": "Johor Bahru, Kota Tinggi, Mersing, Kulai",
+      "lat": 1.4927,
+      "lng": 103.7414,
+      "extraPoints": [
+        [
+          2.431,
+          103.836
+        ],
+        [
+          1.7381,
+          103.8999
+        ],
+        [
+          1.656,
+          103.603
+        ]
+      ]
+    },
+    {
+      "code": "JHR03",
+      "state": "Johor",
+      "area": "Kluang, Pontian",
+      "lat": 2.0304,
+      "lng": 103.3185
+    },
+    {
+      "code": "JHR04",
+      "state": "Johor",
+      "area": "Batu Pahat, Muar, Segamat, Gemas, Tangkak",
+      "lat": 1.8548,
+      "lng": 102.9325
+    },
+    {
+      "code": "KDH01",
+      "state": "Kedah",
+      "area": "Kota Setar, Kubang Pasu, Pokok Sena",
+      "lat": 6.1248,
+      "lng": 100.3678
+    },
+    {
+      "code": "KDH02",
+      "state": "Kedah",
+      "area": "Kuala Muda, Yan, Pendang",
+      "lat": 5.647,
+      "lng": 100.4877
+    },
+    {
+      "code": "KDH03",
+      "state": "Kedah",
+      "area": "Padang Terap, Sik",
+      "lat": 5.8167,
+      "lng": 100.75
+    },
+    {
+      "code": "KDH04",
+      "state": "Kedah",
+      "area": "Baling",
+      "lat": 5.6764,
+      "lng": 100.9186
+    },
+    {
+      "code": "KDH05",
+      "state": "Kedah",
+      "area": "Bandar Baharu, Kulim",
+      "lat": 5.3654,
+      "lng": 100.5615
+    },
+    {
+      "code": "KDH06",
+      "state": "Kedah",
+      "area": "Langkawi",
+      "lat": 6.35,
+      "lng": 99.8
+    },
+    {
+      "code": "KDH07",
+      "state": "Kedah",
+      "area": "Puncak Gunung Jerai",
+      "lat": 5.79,
+      "lng": 100.43
+    },
+    {
+      "code": "KTN01",
+      "state": "Kelantan",
+      "area": "Kota Bharu, Bachok, Machang, Pasir Mas, Pasir Puteh, Tanah Merah, Tumpat, Kuala Krai, Mukim Chiku",
+      "lat": 6.1254,
+      "lng": 102.2381
+    },
+    {
+      "code": "KTN02",
+      "state": "Kelantan",
+      "area": "Gua Musang (Galas, Bertam), Jeli, Lojing",
+      "lat": 4.8843,
+      "lng": 101.9686
+    },
+    {
+      "code": "MLK01",
+      "state": "Melaka",
+      "area": "Seluruh Negeri Melaka",
+      "lat": 2.1896,
+      "lng": 102.2501
+    },
+    {
+      "code": "NGS01",
+      "state": "Negeri Sembilan",
+      "area": "Tampin, Jempol",
+      "lat": 2.47,
+      "lng": 102.23
+    },
+    {
+      "code": "NGS02",
+      "state": "Negeri Sembilan",
+      "area": "Jelebu, Kuala Pilah, Rembau",
+      "lat": 2.7389,
+      "lng": 102.2486,
+      "extraPoints": [
+        [
+          2.5897,
+          102.091
+        ],
+        [
+          2.945,
+          102.07
+        ]
+      ]
+    },
+    {
+      "code": "NGS03",
+      "state": "Negeri Sembilan",
+      "area": "Port Dickson, Seremban",
+      "lat": 2.7258,
+      "lng": 101.9424
+    },
+    {
+      "code": "PHG01",
+      "state": "Pahang",
+      "area": "Pulau Tioman",
+      "lat": 2.8167,
+      "lng": 104.1667
+    },
+    {
+      "code": "PHG02",
+      "state": "Pahang",
+      "area": "Kuantan, Pekan, Muadzam Shah",
+      "lat": 3.8077,
+      "lng": 103.326,
+      "extraPoints": [
+        [
+          3.4922,
+          103.3897
+        ],
+        [
+          3.05,
+          103.0833
+        ]
+      ]
+    },
+    {
+      "code": "PHG03",
+      "state": "Pahang",
+      "area": "Jerantut, Temerloh, Maran, Bera, Chenor, Jengka",
+      "lat": 3.45,
+      "lng": 102.4167
+    },
+    {
+      "code": "PHG04",
+      "state": "Pahang",
+      "area": "Bentong, Lipis, Raub",
+      "lat": 3.7936,
+      "lng": 101.857
+    },
+    {
+      "code": "PHG05",
+      "state": "Pahang",
+      "area": "Genting Sempah, Janda Baik, Bukit Tinggi",
+      "lat": 3.3167,
+      "lng": 101.8333
+    },
+    {
+      "code": "PHG06",
+      "state": "Pahang",
+      "area": "Cameron Highlands, Genting Highlands, Bukit Fraser",
+      "lat": 4.471,
+      "lng": 101.3768
+    },
+    {
+      "code": "PHG07",
+      "state": "Pahang",
+      "area": "Rompin, Endau, Pontian",
+      "lat": 2.8167,
+      "lng": 103.4833
+    },
+    {
+      "code": "PLS01",
+      "state": "Perlis",
+      "area": "Kangar, Padang Besar, Arau",
+      "lat": 6.4414,
+      "lng": 100.1986
+    },
+    {
+      "code": "PNG01",
+      "state": "Pulau Pinang",
+      "area": "Seluruh Negeri Pulau Pinang",
+      "lat": 5.4141,
+      "lng": 100.3288
+    },
+    {
+      "code": "PRK01",
+      "state": "Perak",
+      "area": "Tapah, Slim River, Tanjung Malim",
+      "lat": 4.1975,
+      "lng": 101.26
+    },
+    {
+      "code": "PRK02",
+      "state": "Perak",
+      "area": "Kuala Kangsar, Sungai Siput, Ipoh, Batu Gajah, Kampar",
+      "lat": 4.5975,
+      "lng": 101.0901
+    },
+    {
+      "code": "PRK03",
+      "state": "Perak",
+      "area": "Lenggong, Pengkalan Hulu, Grik",
+      "lat": 5.4269,
+      "lng": 101.1272
+    },
+    {
+      "code": "PRK04",
+      "state": "Perak",
+      "area": "Temengor, Belum",
+      "lat": 5.5,
+      "lng": 101.35
+    },
+    {
+      "code": "PRK05",
+      "state": "Perak",
+      "area": "Kg Gajah, Teluk Intan, Bagan Datuk, Seri Iskandar, Beruas, Parit, Lumut, Sitiawan, Pulau Pangkor",
+      "lat": 4.0259,
+      "lng": 101.0213
+    },
+    {
+      "code": "PRK06",
+      "state": "Perak",
+      "area": "Selama, Taiping, Bagan Serai, Parit Buntar",
+      "lat": 4.85,
+      "lng": 100.7333
+    },
+    {
+      "code": "PRK07",
+      "state": "Perak",
+      "area": "Bukit Larut",
+      "lat": 4.86,
+      "lng": 100.795
+    },
+    {
+      "code": "SBH01",
+      "state": "Sabah",
+      "area": "Bahagian Sandakan (Timur), Bukit Garam, Semawang, Temanggong, Tambisan, Bandar Sandakan",
+      "lat": 5.8402,
+      "lng": 118.1179
+    },
+    {
+      "code": "SBH02",
+      "state": "Sabah",
+      "area": "Beluran, Telupid, Pinangah, Terusan, Kuamut, Bahagian Sandakan (Barat)",
+      "lat": 5.65,
+      "lng": 117.13
+    },
+    {
+      "code": "SBH03",
+      "state": "Sabah",
+      "area": "Lahad Datu, Silabukan, Kunak, Sahabat, Semporna, Tungku, Bahagian Tawau (Timur)",
+      "lat": 5.0269,
+      "lng": 118.327
+    },
+    {
+      "code": "SBH04",
+      "state": "Sabah",
+      "area": "Bandar Tawau, Balong, Merotai, Kalabakan, Bahagian Tawau (Barat)",
+      "lat": 4.2448,
+      "lng": 117.8912
+    },
+    {
+      "code": "SBH05",
+      "state": "Sabah",
+      "area": "Kudat, Kota Marudu, Pitas, Pulau Banggi, Bahagian Kudat",
+      "lat": 6.8837,
+      "lng": 116.848
+    },
+    {
+      "code": "SBH06",
+      "state": "Sabah",
+      "area": "Gunung Kinabalu",
+      "lat": 6.075,
+      "lng": 116.5583
+    },
+    {
+      "code": "SBH07",
+      "state": "Sabah",
+      "area": "Kota Kinabalu, Ranau, Kota Belud, Tuaran, Penampang, Papar, Putatan, Bahagian Pantai Barat",
+      "lat": 5.9804,
+      "lng": 116.0735
+    },
+    {
+      "code": "SBH08",
+      "state": "Sabah",
+      "area": "Pensiangan, Keningau, Tambunan, Nabawan, Bahagian Pendalaman (Atas)",
+      "lat": 5.3378,
+      "lng": 116.1608
+    },
+    {
+      "code": "SBH09",
+      "state": "Sabah",
+      "area": "Beaufort, Kuala Penyu, Sipitang, Tenom, Long Pa Sia, Membakut, Weston, Bahagian Pendalaman (Bawah)",
+      "lat": 5.3474,
+      "lng": 115.7455
+    },
+    {
+      "code": "SWK01",
+      "state": "Sarawak",
+      "area": "Limbang, Lawas, Sundar, Trusan",
+      "lat": 4.75,
+      "lng": 115
+    },
+    {
+      "code": "SWK02",
+      "state": "Sarawak",
+      "area": "Miri, Niah, Bekenu, Sibuti, Marudi",
+      "lat": 4.3995,
+      "lng": 113.9914
+    },
+    {
+      "code": "SWK03",
+      "state": "Sarawak",
+      "area": "Pandan, Belaga, Suai, Tatau, Sebauh, Bintulu",
+      "lat": 3.171,
+      "lng": 113.041
+    },
+    {
+      "code": "SWK04",
+      "state": "Sarawak",
+      "area": "Sibu, Mukah, Dalat, Song, Igan, Oya, Balingian, Kanowit, Kapit",
+      "lat": 2.2874,
+      "lng": 111.8309
+    },
+    {
+      "code": "SWK05",
+      "state": "Sarawak",
+      "area": "Sarikei, Matu, Julau, Rajang, Daro, Bintangor, Belawai",
+      "lat": 2.1276,
+      "lng": 111.5195
+    },
+    {
+      "code": "SWK06",
+      "state": "Sarawak",
+      "area": "Lubok Antu, Sri Aman, Roban, Debak, Kabong, Lingga, Engkelili, Betong, Spaoh, Pusa, Saratok",
+      "lat": 1.2372,
+      "lng": 111.4629
+    },
+    {
+      "code": "SWK07",
+      "state": "Sarawak",
+      "area": "Serian, Simunjan, Samarahan, Sebuyau, Meludam",
+      "lat": 1.15,
+      "lng": 110.5667
+    },
+    {
+      "code": "SWK08",
+      "state": "Sarawak",
+      "area": "Kuching, Bau, Lundu, Sematan",
+      "lat": 1.5533,
+      "lng": 110.3592
+    },
+    {
+      "code": "SWK09",
+      "state": "Sarawak",
+      "area": "Zon Khas (Kampung Patarikan)",
+      "lat": 1.05,
+      "lng": 110.3
+    },
+    {
+      "code": "SGR01",
+      "state": "Selangor",
+      "area": "Gombak, Petaling, Sepang, Hulu Langat, Hulu Selangor, Shah Alam",
+      "lat": 3.0733,
+      "lng": 101.5185
+    },
+    {
+      "code": "SGR02",
+      "state": "Selangor",
+      "area": "Kuala Selangor, Sabak Bernam",
+      "lat": 3.3402,
+      "lng": 101.25
+    },
+    {
+      "code": "SGR03",
+      "state": "Selangor",
+      "area": "Klang, Kuala Langat",
+      "lat": 3.0333,
+      "lng": 101.45
+    },
+    {
+      "code": "TRG01",
+      "state": "Terengganu",
+      "area": "Kuala Terengganu, Marang, Kuala Nerus",
+      "lat": 5.3302,
+      "lng": 103.1408
+    },
+    {
+      "code": "TRG02",
+      "state": "Terengganu",
+      "area": "Besut, Setiu",
+      "lat": 5.68,
+      "lng": 102.55
+    },
+    {
+      "code": "TRG03",
+      "state": "Terengganu",
+      "area": "Hulu Terengganu",
+      "lat": 5.0667,
+      "lng": 102.95
+    },
+    {
+      "code": "TRG04",
+      "state": "Terengganu",
+      "area": "Dungun, Kemaman",
+      "lat": 4.75,
+      "lng": 103.42
+    },
+    {
+      "code": "WLY01",
+      "state": "Wilayah Persekutuan",
+      "area": "Kuala Lumpur, Putrajaya",
+      "lat": 3.139,
+      "lng": 101.6869
+    },
+    {
+      "code": "WLY02",
+      "state": "Wilayah Persekutuan",
+      "area": "Labuan",
+      "lat": 5.2831,
+      "lng": 115.2308
+    }
+  ]
+}
